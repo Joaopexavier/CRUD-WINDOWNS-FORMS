@@ -16,5 +16,9 @@ namespace registration
         {
             InitializeComponent();
         }
+        void Teste()
+        {
+
+        }
     }
 }
